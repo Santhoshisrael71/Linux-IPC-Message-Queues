@@ -3,7 +3,11 @@ Linux IPC-Message Queues
 
 # AIM:
 To write a C program that receives a message from message queue and display them
-
+```
+DEVELOPED BY:
+NAME: Santhosh P
+REG NO:212224220088
+```
 # DESIGN STEPS:
 
 ### Step 1:
